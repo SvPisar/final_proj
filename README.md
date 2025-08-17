@@ -22,3 +22,8 @@
 
 ### Полезные ссылки
 - [Подсказка по markdown](https://www.markdownguide.org/basic-syntax/)
+
+### Библиотеки (!)
+- pyp install pytest
+- pip install selenium
+- pip install webdriver-manager
