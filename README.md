@@ -20,11 +20,12 @@ FINAL_PROJ/
 │   ├── test_api.py           # Тесты для API
 │   ├── test_ui.py            # Тесты для UI
 │   ├── test_data.json        # JSON-файл с тестовыми данными
-│   ├── .gitignore            # Игнорируемые файлы и папки для git
+│   |
 │   └── pages/                # Page Object модели
 │       ├── __init__.py       # Делает папку Python-пакетом
 │       └── main_page.py      # Модель главной страницы для UI-тестов
-│
+|
+├── .gitignore                # Игнорируемые файлы и папки для git│
 ├── .flake8                   # Настройки правил проверки стиля кода Python
 ├── requirements.txt          # Зависимости проекта
 ├── utils.py                  # Вспомогательные функции для автоматизации (закрытие попапов, обработка CAPTCHA, логирование)
@@ -92,5 +93,6 @@ FINAL_PROJ/
 ### Полезные ссылки
 
 - [Подсказка по markdown](https://www.markdownguide.org/basic-syntax/)
+
 
 
