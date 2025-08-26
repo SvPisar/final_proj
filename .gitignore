@@ -1,0 +1,6 @@
+.pytest_cache/
+allure-files/
+__pycache__/
+*.pyc
+.vscode/
+chromedriver.exe
